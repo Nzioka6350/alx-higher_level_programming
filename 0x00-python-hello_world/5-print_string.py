@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
-#my code is here
+# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
 print(3 * str)
 print(str[:9])

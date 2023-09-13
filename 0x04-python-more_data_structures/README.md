@@ -241,4 +241,4 @@ PyList_GetItem
 PyBytes_AS_STRING
 PyBytes_GET_SIZE
 
-**By: James Mutua.
+**By: James Mutua.**
